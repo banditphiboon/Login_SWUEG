@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogIn-Out EGSWU</string>
+
+    <string-array name="Userstatus">
+        <item>นิสิต</item>
+        <item>อาจารย์</item>
+        <item>บุคคลากร</item>
+        <item>ผู้มาติดต่อ</item>
+    </string-array>
+</resources>

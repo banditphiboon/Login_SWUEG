@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306516126343",
+    "firebase_url": "https://projectlogin-d3800.firebaseio.com",
+    "project_id": "projectlogin-d3800",
+    "storage_bucket": "projectlogin-d3800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306516126343:android:8e4f3715165c740bd62622",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306516126343-f6at0m986q16e58irossu87o37roiplc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGUwwKPs9eb4jMTqYrtYDf87DLMk7erY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306516126343-f6at0m986q16e58irossu87o37roiplc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
